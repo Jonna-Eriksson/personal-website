@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Academic</title>
+    <link>/publication_types/2/</link>
+    <description>Recent content in 2 on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Allele phasing is critical to revealing a shared allopolyploid origin of Medicago arborea and M. strasseri (Fabaceae)</title>
+      <link>/publication/arborea_2018/</link>
+      <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/arborea_2018/</guid>
+      <description>Background Whole genome duplication plays a central role in plant evolution. There are two main classes of polyploid formation: autopolyploids which arise within one species by doubling of similar homologous genomes; in contrast, allopolyploidy (hybrid polyploidy) arise via hybridization and subsequent doubling of nonhomologous (homoeologous) genomes. The distinction between polyploid origins can be made using gene phylogenies, if alleles from each genome can be correctly retrieved. We examined whether two closely related tetraploid Mediterranean shrubs (Medicago arborea and M.</description>
+    </item>
+    
+    <item>
+      <title>A cryptic species produced by autopolyploidy and subsequent introgression involving Medicago prostrata (Fabaceae)</title>
+      <link>/publication/cryptic_2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/cryptic_2017/</guid>
+      <description>Although hybridisation through genome duplication is well known, hybridisation without genome duplication (homoploid hybrid speciation, HHS) is not. Few well-documented cases have been reported. A possible instance of HHS in Medicago prostrata Jacq. was suggested previously, based on only two genes and one individual. We tested whether this species was formed through HHS by sampling eight nuclear loci and 22 individuals, with additional individuals from related species, using gene capture and Illumina sequencing.</description>
+    </item>
+    
+  </channel>
+</rss>

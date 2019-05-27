@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>examples on Academic</title>
+    <link>/tags/examples/</link>
+    <description>Recent content in examples on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/examples/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A cryptic species produced by autopolyploidy and subsequent introgression involving Medicago prostrata (Fabaceae)</title>
+      <link>/publication/cryptic_2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/cryptic_2017/</guid>
+      <description>Although hybridisation through genome duplication is well known, hybridisation without genome duplication (homoploid hybrid speciation, HHS) is not. Few well-documented cases have been reported. A possible instance of HHS in Medicago prostrata Jacq. was suggested previously, based on only two genes and one individual. We tested whether this species was formed through HHS by sampling eight nuclear loci and 22 individuals, with additional individuals from related species, using gene capture and Illumina sequencing.</description>
+    </item>
+    
+  </channel>
+</rss>

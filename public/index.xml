@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic</title>
+    <link>/</link>
+    <description>Recent content on Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Allele phasing is critical to revealing a shared allopolyploid origin of Medicago arborea and M. strasseri (Fabaceae)</title>
+      <link>/publication/arborea_2018/</link>
+      <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/arborea_2018/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;
+Whole genome duplication plays a central role in plant evolution. There are two main classes of polyploid formation: autopolyploids which arise within one species by doubling of similar homologous genomes; in contrast, allopolyploidy (hybrid polyploidy) arise via hybridization and subsequent doubling of nonhomologous (homoeologous) genomes. The distinction between polyploid origins can be made using gene phylogenies, if alleles from each genome can be correctly retrieved. We examined whether two closely related tetraploid Mediterranean shrubs (Medicago arborea and M. strasseri) have an allopolyploid origin – a question that has remained unsolved despite substantial previous research. We sequenced and analyzed ten low-copy nuclear genes from these and related species, phasing all alleles. To test the efficacy of allele phasing on the ability to recover the evolutionary origin of polyploids, we compared these results to analyses using unphased sequences.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;
+In eight of the gene trees the alleles inferred from the tetraploids formed two clades, in a non-sister relationship. Each of these clades was more closely related to alleles sampled from other species of Medicago, a pattern typical of allopolyploids. However, we also observed that alleles from one of the remaining genes formed two clades that were sister to one another, as is expected for autopolyploids. Trees inferred from unphased sequences were very different, with the tetraploids often placed in poorly supported and different positions compared to results obtained using phased alleles.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Conclusions&lt;/strong&gt;
+The complex phylogenetic history of M. arborea and M. strasseri is explained predominantly by shared allotetraploidy. We also observed that an increase in woodiness is correlated with polyploidy in this group of species and present a new possibility that woodiness could be a transgressive phenotype. Correctly phased homoeologues are likely to be critical for inferring the hybrid origin of allopolyploid species, when most genes retain more than one homoeologue. Ignoring homoeologous variation by merging the homoeologues can obscure the signal of hybrid polyploid origins and produce inaccurate results.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A cryptic species produced by autopolyploidy and subsequent introgression involving Medicago prostrata (Fabaceae)</title>
+      <link>/publication/cryptic_2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/cryptic_2017/</guid>
+      <description>&lt;p&gt;Although hybridisation through genome duplication is well known, hybridisation without genome duplication (homoploid hybrid speciation, HHS) is not. Few well-documented cases have been reported. A possible instance of HHS in Medicago prostrata Jacq. was suggested previously, based on only two genes and one individual. We tested whether this species was formed through HHS by sampling eight nuclear loci and 22 individuals, with additional individuals from related species, using gene capture and Illumina sequencing. Phylogenetic inference and coalescent simulations were performed to infer the causes of gene tree incongruence. We found no evidence that phylogenetic differences among M. prostrata individuals were the result of HHS. Instead, an autopolyploid origin of tetraploids with introgression from tetraploids of the M. sativa complex is likely. We argue that tetraploid M. prostrata individuals constitute a new species, characterised by a partially non-overlapping distribution and distinctive alleles (from the M. sativa complex). No gene flow from tetraploid to diploid M. prostrata is apparent, suggesting partial reproductive isolation. Thus, speciation via autopolyploidy appears to have been reinforced by introgression. This raises the intriguing possibility that introgressed alleles may be responsible for the increased range exploited by tetraploid M. prostrata with respect to that of the diploids.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Graphical abstract&lt;/strong&gt;
+&lt;img src=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S1055790316303876-fx1_lrg.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;
+Hybridisation, Homoploid hybrid speciation, Gene capture, Next-generation sequencing, Coalescent simulations, Polyploid speciation&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
