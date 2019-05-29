@@ -3,13 +3,69 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2019-05-23T15:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/talk/thesis_defense/</loc>
+    <lastmod>2019-05-23T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2019-05-23T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/7/</loc>
+    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/articles/</loc>
+    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/eriksson-jonna-sofia/</loc>
+    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/thesis2019/</loc>
+    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
     <lastmod>2018-01-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -20,36 +76,7 @@
   </url>
   
   <url>
-    <loc>/tags/articles/</loc>
-    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/jonna-s.-eriksson-filipe.-de-sousa-yann-jk.-bertrand-alexandre.-antonelli-bengt.-oxelman-bernard-e.-pfeil/</loc>
-    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+    <loc>/authors/eriksson-j.-s.-de-sousa-f.-bertrand-y.-j.-k.-antonelli-a.-oxelman-b.-pfeil-b.-e./</loc>
     <lastmod>2018-01-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -60,8 +87,19 @@
   </url>
   
   <url>
-    <loc>/authors/eriksson-js-and-blanco-pastor-jl-and-sousa-f-and-bertrand-yjk-and-pfeil-be/</loc>
+    <loc>/authors/eriksson-j.-s.-blanco-pastor-j.-l.-de-sousa-f.-bertrand-y.-j.-k.-pfeil-b.-e./</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/filipe_2014/</loc>
+    <lastmod>1970-01-01T01:33:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/de-sousa-filipe.-bertrand-yann-jk.-nylinder-stephan.-oxelman-bengt.-eriksson-j.-s.-pfeil-bernard-e./</loc>
+    <lastmod>1970-01-01T01:33:34+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -76,10 +114,6 @@
   
   <url>
     <loc>/post/</loc>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
   </url>
   
 </urlset>

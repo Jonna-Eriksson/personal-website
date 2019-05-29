@@ -1,7 +1,7 @@
 ---
 title: "A cryptic species produced by autopolyploidy and subsequent introgression involving Medicago prostrata (Fabaceae)"
 date: 2017-01-01
-authors: ["Eriksson, JS and Blanco-Pastor, JL and Sousa, F and Bertrand, YJK and Pfeil, BE"]
+authors: ["Eriksson, J. S., Blanco-Pastor, J. L., de Sousa, F., Bertrand, Y. J. K., Pfeil, B. E."]
 publication_types: ["2"]
 abstract: ""
 featured: false

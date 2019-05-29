@@ -1,7 +1,7 @@
 ---
 title: "Allele phasing is critical to revealing a shared allopolyploid origin of Medicago arborea and M. strasseri (Fabaceae)"
 date: 2018-01-27
-authors: ["Jonna S. Eriksson, Filipe. de Sousa, Yann JK. Bertrand, Alexandre. Antonelli, Bengt. Oxelman, Bernard E. Pfeil, "]
+authors: ["Eriksson, J. S. ,de Sousa, F., Bertrand, Y. J. K., Antonelli, A., Oxelman, B., Pfeil, B. E."]
 publication_types: ["2"]
 abstract: ""
 featured: false

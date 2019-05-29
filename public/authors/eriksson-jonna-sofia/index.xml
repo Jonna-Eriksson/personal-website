@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eriksson, Jonna Sofia on Academic</title>
+    <link>/authors/eriksson-jonna-sofia/</link>
+    <description>Recent content in Eriksson, Jonna Sofia on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/eriksson-jonna-sofia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Polyploid phylogenetics in plants: Insights on non-model organisms in Fabaceae and Malvaceae</title>
+      <link>/publication/thesis2019/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/thesis2019/</guid>
+      <description>Genome duplication is a common phenomenon in angiosperms and advances in sequencing technologies and bioinformatics is now revealing its prevalence and significance. In a polyploidization event all genes in a genome are doubled. Duplicated genes can take one of three paths, either both of the duplicated are maintained or one of them may be randomly lost or selected against. Polyploid species are challenging for resolving species relationships because of the number of duplicated genes and the different processes leading to genome reduction.</description>
+    </item>
+    
+  </channel>
+</rss>

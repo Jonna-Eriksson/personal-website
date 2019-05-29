@@ -6,10 +6,56 @@
     <description>Recent content on Academic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2019 15:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Polyploid Phylogenetics in Plants</title>
+      <link>/talk/thesis_defense/</link>
+      <pubDate>Thu, 23 May 2019 15:00:00 +0000</pubDate>
+      
+      <guid>/talk/thesis_defense/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Polyploid phylogenetics in plants: Insights on non-model organisms in Fabaceae and Malvaceae</title>
+      <link>/publication/thesis2019/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/thesis2019/</guid>
+      <description>&lt;p&gt;Genome duplication is a common phenomenon in angiosperms and advances in sequencing technologies and bioinformatics is now revealing its prevalence and significance. In a polyploidization event all genes in a genome are doubled. Duplicated genes can take one of three paths, either both of the duplicated are maintained or one of them may be randomly lost or selected against. Polyploid species are challenging for resolving species relationships because of the number of duplicated genes and the different processes leading to genome reduction. In this thesis I investigate the mode of polyploid origin (i.e. auto- and allopolyploidy) and the role of ancient genome duplication in plant speciation.&lt;/p&gt;
+
+&lt;p&gt;Here, two families were studied because of their numerous rounds of polyploidization events, Fabaceae and Malvaceae. To discern between the complex processes involving polyploidy, large amounts of data were generated from several nuclear genes using target gene capture and Illumina sequencing. In &lt;em&gt;Medicago&lt;/em&gt; (Fabaceae) two modes of polyploidy (autopolyploidy and allopolyploidy) were discovered. In the first case, an autopolyploid mode was identified, because gene comparisons showed two independently evolving species, a cryptic tetraploid species derived from a diploid progenitor. In the second case, two woody tetraploids were found to be hybrids. Since the closest parental lineages associated with the hybridization only have woody roots, the genome duplication for genes related to woodiness may be an instance of transgressive phenotype (extreme morphological character) in the hybrids.&lt;/p&gt;
+
+&lt;p&gt;Evidence of genome duplication appears not only in recently formed polyploids, but may also be present through genes that were duplicated in a lineage’s history. The traces of ancient genome duplication events may be scarce owing to random mutations and gene losses. &lt;em&gt;Hibiscus&lt;/em&gt; (Malvaceae) is a plant genus which possesses diverse chromosome numbers among species, indicative of potential polyploidization events. By studying the number of gene copies in diploid species, two ancient genome duplications were identified in &lt;em&gt;Hibiscus&lt;/em&gt;. Additionally, numerous polyploidization events following the ancient duplications were detected among the extant species, indicating a complex reticulate history. Hibisceae consists of five major clades: /Calyphylli, /Euhibiscus, /Furcaria, /Trionum and /Megistohibiscus but with inconsistent genus naming conventions (e.g. &lt;em&gt;Hibiscus&lt;/em&gt; occurs across all of the clades).&lt;/p&gt;
+
+&lt;p&gt;In this study, phylogenetic analysis of HTS data supported the classification of the group into the major clades; all were found to be monophyletic and no hybrid polyploidization events were found to have occurred between them. Additionally, each major clade&amp;rsquo;s taxa were found to have common base chromosome numbers. Given the results, a taxonomic renaming, based on base chromosome number, of the major clade&amp;rsquo;s genera is recommended. This thesis demonstrates a rich history of polyploidizations both recent and ancient – highlighting the important role this phenomenon has played in the evolution of two distantly-related plant families. Polyploidy may explain the underlying causes of when classical taxonomy (classification before DNA sequences) is not enough and may potentially lead to underestimation of the true number of species. Due to the unique patterns across lineages, polyploidizations allows for no generalizations; despite its ubiquity, it remains mysterious. Polyploidy is, at least in part, reversible and leads to a smaller genome size over time.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Graphical abstract&lt;/strong&gt;
+![]()&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;
+Diploidization, genome duplication, haplotypes, Hibisceae, &lt;em&gt;Hibiscus&lt;/em&gt;, homoeologues, high-throughput sequencing, &lt;em&gt;Pavonia&lt;/em&gt;, Malvaceae, polyploidization&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Allele phasing is critical to revealing a shared allopolyploid origin of Medicago arborea and M. strasseri (Fabaceae)</title>
@@ -42,6 +88,15 @@ The complex phylogenetic history of M. arborea and M. strasseri is explained pre
 &lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;
 Hybridisation, Homoploid hybrid speciation, Gene capture, Next-generation sequencing, Coalescent simulations, Polyploid speciation&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Phylogenetic properties of 50 nuclear loci in Medicago (Leguminosae) generated using multiplexed sequence capture and next-generation sequencing</title>
+      <link>/publication/filipe_2014/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:34 +0100</pubDate>
+      
+      <guid>/publication/filipe_2014/</guid>
+      <description></description>
     </item>
     
   </channel>
